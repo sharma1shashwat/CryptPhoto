@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Embedding and Encryption</string>
+    <string name="cryptphoto">CryptPhoto</string>
+    <string name="todo">TODO</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="share">share</string>
+    <string name="password">Password</string>
+    <string name="darkmode">Dark Mode</string>
+</resources>
